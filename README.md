@@ -2,17 +2,11 @@
 winget commands after format windows 
 
 ### mandatory
-    winget install SomePythonThings.WingetUIStore
-    winget install Microsoft.PowerShell
-    winget install ModernFlyouts.ModernFlyouts
-    winget install Vitzo.ClipClip
-    winget install Git.Git
-    winget install Greenshot.Greenshot.Preview
-    winget install Microsoft.DotNet.SDK.8
-    winget install Microsoft.VisualStudioCode
-    winget install Microsoft.PowerToys
-    winget install RARLab.WinRAR
-  
+    winget install SomePythonThings.WingetUIStore Microsoft.PowerShell ModernFlyouts.ModernFlyouts Vitzo.ClipClip Git.Git Greenshot.Greenshot.Preview Microsoft.PowerToys RARLab.WinRAR Microsoft.DotNet.SDK.8 
+    
+#### install with WingetUI 
+    Microsoft.VisualStudioCode (interactive mode)
+    
 ### optional
     winget install JGraph.Draw
     winget install GIMP.GIMP
