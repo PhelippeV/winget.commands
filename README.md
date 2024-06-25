@@ -2,9 +2,9 @@
 winget commands after format windows 
 
 ### mandatory
+    winget install SomePythonThings.WingetUIStore
     winget install Microsoft.PowerShell
     winget install ModernFlyouts.ModernFlyouts
-    winget install SomePythonThings.WingetUIStore
     winget install Vitzo.ClipClip
     winget install Git.Git
     winget install Greenshot.Greenshot.Preview
