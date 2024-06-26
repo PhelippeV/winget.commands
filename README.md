@@ -18,6 +18,7 @@ winget commands after format windows
     winget install 9NBDXK71NK08 /Whatsapp beta
     winget install 9NZ3KLHXDJP5 /Ubuntu 24.04 LTS
     winget install Kingsoft.WPSOffice
+    winget install Dropbox.Dropbox
 
 
   ### Enable WSL
