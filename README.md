@@ -20,6 +20,9 @@ winget commands after format windows
     winget install Kingsoft.WPSOffice
     winget install Dropbox.Dropbox
 
+### manual download
+
+[Files app (Substitui o explorer.exe)](https://files.community/download) 
 
   ### Enable WSL
   Em Recursos do Windows
