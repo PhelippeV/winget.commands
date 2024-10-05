@@ -2,7 +2,7 @@
 winget commands after format windows 
 
 ### mandatory
-    winget install SomePythonThings.WingetUIStore Microsoft.PowerShell ModernFlyouts.ModernFlyouts Vitzo.ClipClip Git.Git Greenshot.Greenshot.Preview Microsoft.PowerToys RARLab.WinRAR Microsoft.DotNet.SDK.8 
+    winget install MartiCliment.UniGetUI Microsoft.PowerShell ModernFlyouts.ModernFlyouts Vitzo.ClipClip Git.Git Greenshot.Greenshot.Preview Microsoft.PowerToys RARLab.WinRAR Microsoft.DotNet.SDK.8 
     
 #### install with WingetUI 
     Microsoft.VisualStudioCode (interactive mode)
